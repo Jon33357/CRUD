@@ -1,4 +1,4 @@
-package pt.agrandacontactos;
+package pt.agendacontactos;
 import java.util.Scanner;
 
 public class Main {

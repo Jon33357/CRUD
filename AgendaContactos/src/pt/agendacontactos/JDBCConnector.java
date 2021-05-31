@@ -1,5 +1,7 @@
-package pt.agrandacontactos;
+package pt.agendacontactos;
+
 
 public class JDBCConnector {
+	
 
 }
