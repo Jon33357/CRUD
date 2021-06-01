@@ -14,6 +14,8 @@ public class Main {
 		readChoice.hasNext();
 		
 		readChoice.close();
+		
+		System.out.println("Bye");
 
 	}
 
