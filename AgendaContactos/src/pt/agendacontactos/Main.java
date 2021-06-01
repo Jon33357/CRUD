@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
+	/* Testa Isto tudo*/
 	private static Scanner _scanner = new Scanner(System.in);
 	
 	public static void main(String[] args) {
